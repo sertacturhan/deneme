@@ -1,8 +1,8 @@
 # deneme
 
 ## alt bilgi
-alksndmas
-aşlsmldas
 
+sertaç başkan
+alsdkjams
 
-
+[lorem ipsum](http://google.com)
